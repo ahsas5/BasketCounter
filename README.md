@@ -1,8 +1,8 @@
 
-Court Counter Sample App
+Basket Counter Sample App
 ===================================
 
-Keeps track of basketball scores for two teams. Used in the Udacity Android for Beginners course.
+Keeps track of basketball scores for two teams.
 
 Pre-requisites
 --------------
